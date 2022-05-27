@@ -1,0 +1,9 @@
+vhdl xil_defaultlib  \
+"../../../bd/pass_through/ip/pass_through_axi_ethernet_0_1/bd_0/ip/ip_0/sim/bd_7409_eth_buf_0.vhd" \
+"../../../bd/pass_through/ip/pass_through_axi_ethernet_0_1/bd_0/ip/ip_1/synth/bd_7409_mac_0_axi4_lite_ipif_top.vhd" \
+"../../../bd/pass_through/ip/pass_through_axi_ethernet_0_1/bd_0/ip/ip_2/sim/bd_7409_c_shift_ram_0_0.vhd" \
+"../../../bd/pass_through/ip/pass_through_axi_ethernet_0_1/bd_0/ip/ip_3/sim/bd_7409_c_counter_binary_0_0.vhd" \
+"../../../bd/pass_through/ip/pass_through_axi_ethernet_0_fifo_0/sim/pass_through_axi_ethernet_0_fifo_0.vhd" \
+"../../../bd/pass_through/ip/pass_through_rst_ps7_0_100M_1/sim/pass_through_rst_ps7_0_100M_1.vhd" \
+
+nosort

@@ -1,0 +1,25 @@
+verilog xil_defaultlib --include "/tools/Xilinx/Vivado/2021.2/data/xilinx_vip/include" --include "../../../../ethernet_pass_through.gen/sources_1/bd/pass_through/ipshared/ec67/hdl" --include "../../../../ethernet_pass_through.gen/sources_1/bd/pass_through/ipshared/3007/hdl" --include "../../../../ethernet_pass_through.gen/sources_1/bd/pass_through/ipshared/62b6" \
+"../../../bd/pass_through/ip/pass_through_processing_system7_0_0/sim/pass_through_processing_system7_0_0.v" \
+"../../../bd/pass_through/ip/pass_through_axi_ethernet_0_1/bd_0/ip/ip_1/synth/common/bd_7409_mac_0_block_reset_sync.v" \
+"../../../bd/pass_through/ip/pass_through_axi_ethernet_0_1/bd_0/ip/ip_1/synth/common/bd_7409_mac_0_block_sync_block.v" \
+"../../../bd/pass_through/ip/pass_through_axi_ethernet_0_1/bd_0/ip/ip_1/synth/bd_7409_mac_0_axi4_lite_ipif_wrapper.v" \
+"../../../bd/pass_through/ip/pass_through_axi_ethernet_0_1/bd_0/ip/ip_1/synth/physical/bd_7409_mac_0_gmii_if.v" \
+"../../../bd/pass_through/ip/pass_through_axi_ethernet_0_1/bd_0/ip/ip_1/synth/bd_7409_mac_0_tx_clk_gen.v" \
+"../../../bd/pass_through/ip/pass_through_axi_ethernet_0_1/bd_0/ip/ip_1/synth/statistics/bd_7409_mac_0_vector_decode.v" \
+"../../../bd/pass_through/ip/pass_through_axi_ethernet_0_1/bd_0/ip/ip_1/synth/bd_7409_mac_0_block.v" \
+"../../../bd/pass_through/ip/pass_through_axi_ethernet_0_1/bd_0/ip/ip_1/synth/bd_7409_mac_0_support.v" \
+"../../../bd/pass_through/ip/pass_through_axi_ethernet_0_1/bd_0/ip/ip_1/synth/bd_7409_mac_0_support_resets.v" \
+"../../../bd/pass_through/ip/pass_through_axi_ethernet_0_1/bd_0/ip/ip_1/synth/bd_7409_mac_0.v" \
+"../../../bd/pass_through/ip/pass_through_axi_ethernet_0_1/bd_0/ip/ip_4/sim/bd_7409_xlconstant_0_0.v" \
+"../../../bd/pass_through/ip/pass_through_axi_ethernet_0_1/bd_0/ip/ip_5/sim/bd_7409_util_vector_logic_0_0.v" \
+"../../../bd/pass_through/ip/pass_through_axi_ethernet_0_1/bd_0/sim/bd_7409.v" \
+"../../../bd/pass_through/ip/pass_through_axi_ethernet_0_1/sim/pass_through_axi_ethernet_0_1.v" \
+"../../../bd/pass_through/ip/pass_through_axi_ethernet_0_refclk_1/pass_through_axi_ethernet_0_refclk_1_clk_wiz.v" \
+"../../../bd/pass_through/ip/pass_through_axi_ethernet_0_refclk_1/pass_through_axi_ethernet_0_refclk_1.v" \
+"../../../bd/pass_through/ip/pass_through_xbar_0/sim/pass_through_xbar_0.v" \
+"../../../bd/pass_through/ip/pass_through_auto_pc_0/sim/pass_through_auto_pc_0.v" \
+"../../../bd/pass_through/sim/pass_through.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort
